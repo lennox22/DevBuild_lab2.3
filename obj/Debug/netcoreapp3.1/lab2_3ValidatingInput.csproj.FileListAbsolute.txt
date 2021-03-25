@@ -1,0 +1,13 @@
+C:\Users\lbrown4\dev\Week2\lab2_3ValidatingInput\bin\Debug\netcoreapp3.1\lab2_3ValidatingInput.exe
+C:\Users\lbrown4\dev\Week2\lab2_3ValidatingInput\bin\Debug\netcoreapp3.1\lab2_3ValidatingInput.deps.json
+C:\Users\lbrown4\dev\Week2\lab2_3ValidatingInput\bin\Debug\netcoreapp3.1\lab2_3ValidatingInput.runtimeconfig.json
+C:\Users\lbrown4\dev\Week2\lab2_3ValidatingInput\bin\Debug\netcoreapp3.1\lab2_3ValidatingInput.runtimeconfig.dev.json
+C:\Users\lbrown4\dev\Week2\lab2_3ValidatingInput\bin\Debug\netcoreapp3.1\lab2_3ValidatingInput.dll
+C:\Users\lbrown4\dev\Week2\lab2_3ValidatingInput\bin\Debug\netcoreapp3.1\lab2_3ValidatingInput.pdb
+C:\Users\lbrown4\dev\Week2\lab2_3ValidatingInput\obj\Debug\netcoreapp3.1\lab2_3ValidatingInput.AssemblyInfoInputs.cache
+C:\Users\lbrown4\dev\Week2\lab2_3ValidatingInput\obj\Debug\netcoreapp3.1\lab2_3ValidatingInput.AssemblyInfo.cs
+C:\Users\lbrown4\dev\Week2\lab2_3ValidatingInput\obj\Debug\netcoreapp3.1\lab2_3ValidatingInput.csproj.CoreCompileInputs.cache
+C:\Users\lbrown4\dev\Week2\lab2_3ValidatingInput\obj\Debug\netcoreapp3.1\lab2_3ValidatingInput.dll
+C:\Users\lbrown4\dev\Week2\lab2_3ValidatingInput\obj\Debug\netcoreapp3.1\lab2_3ValidatingInput.pdb
+C:\Users\lbrown4\dev\Week2\lab2_3ValidatingInput\obj\Debug\netcoreapp3.1\lab2_3ValidatingInput.genruntimeconfig.cache
+C:\Users\lbrown4\dev\Week2\lab2_3ValidatingInput\obj\Debug\netcoreapp3.1\lab2_3ValidatingInput.csprojAssemblyReference.cache
